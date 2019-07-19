@@ -5,4 +5,4 @@ Link al dataset SA preprocessato, suddiviso per azione:
 https://drive.google.com/open?id=1856l3ynCoMmN9LXpMkfpMYWNT-BVxSOt
 
 Link al dataset MERL preprocessato, suddiviso per azione:
-https://drive.google.com/open?id=10KLpNTLe_BKJsBBAZrMf_ygMG_t3EAE_
+https://drive.google.com/drive/folders/10KLpNTLe_BKJsBBAZrMf_ygMG_t3EAE_?usp=sharing
